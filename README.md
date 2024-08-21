@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard that provides an insightful analys
 ## Key Metrics:
 Displays overall sales figures, profit, total quantity sold, and AOV.
 ## Sales by State:
-Bar chart showing the distribution of sales across different states.
+Bar chart showing the distribution of sales across different states. 
 ## Quantity by Category: 
 Donut chart illustrating the proportion of items sold by product category.
 ## Profit by Month: 
